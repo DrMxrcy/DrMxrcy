@@ -2393,7 +2393,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mother-of-all-self-hosting/mash-playbook</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐋 Ansible playbook which helps you host various FOSS services as Docker containers on your own server</div>
@@ -3335,7 +3335,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 May 2023, 20:05:58 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 May 2023, 21:28:59 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
