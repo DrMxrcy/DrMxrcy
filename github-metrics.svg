@@ -2389,7 +2389,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>frontendnetwork/uptodon</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A UptimeRobot Mastdon bot that toots if a service is down: Uptodon!</div>
@@ -2442,7 +2442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>amadejpapez/ApplSec</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mastodon and Twitter bot keeping you up-to-date with security fixes to Apple's ecosystem! New updates, number of bugs, zero-days, and more! 🍎🔒</div>
@@ -2495,7 +2495,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ronilaukkarinen/mastodon-bird-ui</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐘🐦 Mastodon web UI, but strongly inspired by Twitter.</div>
@@ -3150,7 +3150,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 325k out of 403m repositories</span>
+                                    <span class="gh">ranked 305k out of 403m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 94 stars</div>
                             </div>
@@ -3355,7 +3355,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 May 2023, 09:04:43 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 May 2023, 10:02:55 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
