@@ -2393,7 +2393,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bottlesdevs/Bottles</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run Windows software and games on Linux</div>
@@ -2499,7 +2499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>luigi311/JellyPlex-Watched</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sync watched between jellyfin and plex locally</div>
@@ -3361,7 +3361,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jun 2023, 01:02:47 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 17 Jun 2023, 02:02:47 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
