@@ -2546,7 +2546,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>luigi311/JellyPlex-Watched</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sync watched between jellyfin and plex locally</div>
@@ -3354,7 +3354,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jun 2023, 01:02:42 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 24 Jun 2023, 02:02:58 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
