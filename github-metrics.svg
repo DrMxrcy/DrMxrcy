@@ -2468,7 +2468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>liftoff-app/liftoff</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🐒  A mobile client for lemmy</div>
@@ -2521,7 +2521,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thunder-app/thunder</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter</div>
@@ -2743,7 +2743,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jul 2023, 10:02:49 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 24 Jul 2023, 11:02:46 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
