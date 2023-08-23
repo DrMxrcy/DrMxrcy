@@ -2384,7 +2384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>giuseppelt/EmailFlare</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Send emails from your domain through Cloudflare for free. Self host on your account.</div>
@@ -2437,7 +2437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chescos/csgo-skin-tester</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is the NodeJS backend for the CS:GO Skin Tester, a tool that allows you to test CS:GO skins in-game on a community server.</div>
@@ -2490,7 +2490,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>timche/docker-csgo</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Counter-Strike: Global Offensive (CS:GO) Dedicated Server with automated/manual updating and optional SourceMod and PugSetup/PracticeMode integrations</div>
@@ -2543,7 +2543,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GameServerManagers/LinuxGSM</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The command-line tool for quick, simple deployment and management of Linux dedicated game servers.</div>
@@ -2767,7 +2767,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Aug 2023, 11:03:07 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 23 Aug 2023, 12:03:10 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
