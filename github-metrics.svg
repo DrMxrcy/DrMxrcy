@@ -2394,7 +2394,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vmstan/gravity-sync</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💫 The easy way to synchronize the DNS configuration of two Pi-hole 5.x instances.</div>
@@ -2447,7 +2447,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mattwebbio/orbital-sync</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Synchronize multiple Pi-hole instances</div>
@@ -2777,7 +2777,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Sept 2023, 04:03:18 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 8 Sept 2023, 05:02:46 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
