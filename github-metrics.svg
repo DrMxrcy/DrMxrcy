@@ -2368,7 +2368,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>datarhei/restreamer</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the RTMP and SRT server.</div>
@@ -2527,7 +2527,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anudeepND/whitelist</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple tool to add commonly white listed domains to your Pi-Hole setup.</div>
@@ -2751,7 +2751,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Sept 2023, 20:07:07 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 Sept 2023, 21:23:59 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
