@@ -2383,7 +2383,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>datarhei/restreamer</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the RTMP and SRT server.</div>
@@ -3116,7 +3116,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 260k out of 53.6m repositories</span>
+                                    <span class="gh">ranked 260k out of 48.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 132 stars</div>
                             </div>
@@ -3354,7 +3354,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Sept 2023, 13:03:08 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Sept 2023, 14:03:07 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
