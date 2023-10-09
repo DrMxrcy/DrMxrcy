@@ -2368,7 +2368,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GoXLR-on-Linux/goxlr-utility</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An unofficial GoXLR App replacement for Linux, Windows and MacOS</div>
@@ -2851,7 +2851,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.92m out of 117m users</span>
+                                    <span class="gh">ranked 1.92m out of 121m users</span>
                                 </div>
                                 <div class="text">Published 25 public repositories</div>
                             </div>
@@ -3102,7 +3102,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 250k out of 45.1m repositories</span>
+                                    <span class="gh">ranked 250k out of 44.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 140 stars</div>
                             </div>
@@ -3259,7 +3259,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.08m out of 117m users</span>
+                                    <span class="gh">ranked 1.08m out of 121m users</span>
                                 </div>
                                 <div class="text">Followed by 12 users</div>
                             </div>
@@ -3340,7 +3340,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Oct 2023, 11:03:14 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Oct 2023, 12:03:12 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
