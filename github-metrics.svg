@@ -2373,7 +2373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fancybits/chrome-capture-for-channels</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Capture video and audio from a Chrome tab</div>
@@ -2420,7 +2420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GoXLR-on-Linux/goxlr-utility</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An unofficial GoXLR App replacement for Linux, Windows and MacOS</div>
@@ -2850,7 +2850,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.92m out of 115m users</span>
+                                    <span class="gh">ranked 1.92m out of 121m users</span>
                                 </div>
                                 <div class="text">Published 25 public repositories</div>
                             </div>
@@ -3101,7 +3101,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 250k out of 46.8m repositories</span>
+                                    <span class="gh">ranked 250k out of 43.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 140 stars</div>
                             </div>
@@ -3258,7 +3258,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.08m out of 115m users</span>
+                                    <span class="gh">ranked 1.08m out of 121m users</span>
                                 </div>
                                 <div class="text">Followed by 12 users</div>
                             </div>
@@ -3339,7 +3339,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Oct 2023, 04:03:11 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Oct 2023, 05:03:22 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
