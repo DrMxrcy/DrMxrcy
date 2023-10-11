@@ -2378,7 +2378,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fancybits/chrome-capture-for-channels</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Capture video and audio from a Chrome tab</div>
@@ -3106,7 +3106,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 250k out of 52.5m repositories</span>
+                                    <span class="gh">ranked 250k out of 51.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 140 stars</div>
                             </div>
@@ -3344,7 +3344,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Oct 2023, 21:24:11 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Oct 2023, 22:09:07 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
