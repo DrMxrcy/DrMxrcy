@@ -2383,7 +2383,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yolanmees/Spikster</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Install and manage your server like a pro! With Spikster you don’t need to be a Sys Admin to deploy and manage websites and PHP applications powered by cloud VPS.</div>
@@ -2436,7 +2436,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Drewpeifer/medialytics</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A basic, free tool that shows information about Plex Media Server content</div>
@@ -2489,7 +2489,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DaytimeLobster/gogrow</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The GoGrow planning, homesteading, and image annotation app</div>
@@ -3111,7 +3111,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 250k out of 47.7m repositories</span>
+                                    <span class="gh">ranked 250k out of 39.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 140 stars</div>
                             </div>
@@ -3349,7 +3349,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Oct 2023, 18:03:00 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Oct 2023, 19:03:03 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
