@@ -2368,7 +2368,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pteroeggsx/pteroeggs</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Service eggs for the pterodactyl panel</div>
@@ -2421,7 +2421,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>darksaid98/pterodactyl-fivem-egg</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modified Pterodactyl egg for FiveM which includes features like updating artifacts and pulling from git.</div>
@@ -3104,7 +3104,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 249k out of 49m repositories</span>
+                                    <span class="gh">ranked 249k out of 47.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 141 stars</div>
                             </div>
@@ -3342,7 +3342,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Oct 2023, 02:03:04 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Oct 2023, 03:03:09 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
