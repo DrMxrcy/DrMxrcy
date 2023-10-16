@@ -2368,7 +2368,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pteroeggsx/pteroeggs</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Service eggs for the pterodactyl panel</div>
@@ -2421,7 +2421,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>darksaid98/pterodactyl-fivem-egg</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modified Pterodactyl egg for FiveM which includes features like updating artifacts and pulling from git.</div>
@@ -2853,7 +2853,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.93m out of 121m users</span>
+                                    <span class="gh">ranked 1.93m out of 116m users</span>
                                 </div>
                                 <div class="text">Published 25 public repositories</div>
                             </div>
@@ -3104,7 +3104,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 249k out of 50m repositories</span>
+                                    <span class="gh">ranked 234k out of 51.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 141 stars</div>
                             </div>
@@ -3261,7 +3261,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.09m out of 121m users</span>
+                                    <span class="gh">ranked 1.09m out of 116m users</span>
                                 </div>
                                 <div class="text">Followed by 12 users</div>
                             </div>
@@ -3342,7 +3342,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Oct 2023, 21:25:13 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Oct 2023, 22:10:31 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
