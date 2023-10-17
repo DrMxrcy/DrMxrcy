@@ -2373,7 +2373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>1zc/CS2-Pterodactyl</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker image and Pterodactyl eggs to support CS2 and CS:GO (after archival), based on SteamRT3.</div>
@@ -2858,7 +2858,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.93m out of 118m users</span>
+                                    <span class="gh">ranked 1.93m out of 121m users</span>
                                 </div>
                                 <div class="text">Published 25 public repositories</div>
                             </div>
@@ -3074,7 +3074,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 248k out of 48.3m repositories</span>
+                                    <span class="gh">ranked 245k out of 44.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 142 stars</div>
                             </div>
@@ -3266,7 +3266,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.09m out of 118m users</span>
+                                    <span class="gh">ranked 1.09m out of 121m users</span>
                                 </div>
                                 <div class="text">Followed by 12 users</div>
                             </div>
@@ -3347,7 +3347,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Oct 2023, 12:03:10 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Oct 2023, 13:03:32 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
