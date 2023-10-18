@@ -2378,7 +2378,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>1zc/CS2-Pterodactyl</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker image and Pterodactyl eggs to support CS2 and CS:GO (after archival), based on SteamRT3.</div>
@@ -3079,7 +3079,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 248k out of 53.3m repositories</span>
+                                    <span class="gh">ranked 248k out of 53.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 142 stars</div>
                             </div>
@@ -3352,7 +3352,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Oct 2023, 23:03:00 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Oct 2023, 00:02:54 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
