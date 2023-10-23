@@ -2368,7 +2368,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Trillion-Servers/unturned-egg-pterodactyl</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pterodactyl Unturned Egg for Openmod and Rocketmod</div>
@@ -2421,7 +2421,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Fz77z/pterodactyl-automated-backups</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This Automatic Backups script is a Python-based solution designed to streamline your server backup process. With the capacity to connect to all servers in your panel, this tool leverages the Pterodactyl API to sequentially initiate backups across all servers.</div>
@@ -3104,7 +3104,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 247k out of 94.9m repositories</span>
+                                    <span class="gh">ranked 247k out of 86.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 143 stars</div>
                             </div>
@@ -3336,7 +3336,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Oct 2023, 17:03:20 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Oct 2023, 18:03:06 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
