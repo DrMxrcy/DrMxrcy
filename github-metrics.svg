@@ -2373,7 +2373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Trillion-Servers/unturned-egg-pterodactyl</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pterodactyl Unturned Egg for Openmod and Rocketmod</div>
@@ -2426,7 +2426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Fz77z/pterodactyl-automated-backups</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This Automatic Backups script is a Python-based solution designed to streamline your server backup process. With the capacity to connect to all servers in your panel, this tool leverages the Pterodactyl API to sequentially initiate backups across all servers.</div>
@@ -2940,7 +2940,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.7583846680355926 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.9705681040383283 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3109,7 +3109,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 245k out of 77.2m repositories</span>
+                                    <span class="gh">ranked 245k out of 72.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 144 stars</div>
                             </div>
@@ -3341,7 +3341,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Oct 2023, 15:02:52 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Oct 2023, 16:03:07 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
