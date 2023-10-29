@@ -2398,7 +2398,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>parkervcp/eggs</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Service eggs for the pterodactyl panel</div>
@@ -2451,7 +2451,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Trillion-Servers/unturned-egg-pterodactyl</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pterodactyl Unturned Egg for Openmod and Rocketmod</div>
@@ -2504,7 +2504,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Fz77z/pterodactyl-automated-backups</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This Automatic Backups script is a Python-based solution designed to streamline your server backup process. With the capacity to connect to all servers in your panel, this tool leverages the Pterodactyl API to sequentially initiate backups across all servers.</div>
@@ -3134,7 +3134,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 243k out of 74.3m repositories</span>
+                                    <span class="gh">ranked 243k out of 67.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 146 stars</div>
                             </div>
@@ -3366,7 +3366,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Oct 2023, 16:03:07 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Oct 2023, 17:02:50 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
