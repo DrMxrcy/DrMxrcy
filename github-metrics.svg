@@ -2398,7 +2398,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jmorganca/ollama</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Get up and running with Llama 2 and other large language models locally</div>
@@ -2451,7 +2451,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>David-Kunz/gen.nvim</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Neovim plugin to generate text using LLMs with customizable prompts</div>
@@ -3124,7 +3124,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 243k out of 50.2m repositories</span>
+                                    <span class="gh">ranked 243k out of 49.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 147 stars</div>
                             </div>
@@ -3357,7 +3357,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Nov 2023, 09:16:45 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Nov 2023, 10:03:11 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
