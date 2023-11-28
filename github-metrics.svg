@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="313.045399584419" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="313.045399584419" y="0" width="71.30549747613695" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="384.35089706055595" y="0" width="26.60736476945137" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="410.9582618300073" y="0" width="16.739638938604056" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="427.69790076861136" y="0" width="12.961547283683583" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="440.659448052295" y="0" width="8.637409330216693" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="449.2968573825117" y="0" width="5.829956060307999" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="455.1268134428197" y="0" width="4.873186557180394" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="313.03778189039247" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="313.03778189039247" y="0" width="71.30376231739352" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="384.341544207786" y="0" width="26.606717301819085" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="410.94826150960506" y="0" width="16.739231593702268" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="427.68749310330736" y="0" width="12.972425584899325" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="440.6599186882067" y="0" width="8.637199146193714" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="449.2971178344004" y="0" width="5.829814193276845" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="455.12693202767724" y="0" width="4.8730679723228105" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2426,7 +2426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jmorganca/ollama</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Get up and running with Llama 2 and other large language models locally</div>
@@ -2479,7 +2479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>David-Kunz/gen.nvim</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Neovim plugin to generate text using LLMs with customizable prompts</div>
@@ -3112,7 +3112,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 233k out of 56.2m repositories</span>
+                                    <span class="gh">ranked 233k out of 60.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 156 stars</div>
                             </div>
@@ -3345,7 +3345,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Nov 2023, 21:13:49 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Nov 2023, 22:02:56 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
