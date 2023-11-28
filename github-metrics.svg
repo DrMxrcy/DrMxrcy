@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1191 Commits
+                            1195 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="312.26407435329105" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="312.26407435329105" y="0" width="71.32595223203536" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="383.59002658532637" y="0" width="26.54095585414453" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="410.1309824394709" y="0" width="16.69785872947124" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="426.8288411689422" y="0" width="13.878878671536661" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="440.70771984047883" y="0" width="8.6158513522038" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="449.3235711926826" y="0" width="5.815405162028283" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="455.1389763547109" y="0" width="4.861023645289105" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="312.24110355842043" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="312.24110355842043" y="0" width="71.32070534661935" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.5618089050398" y="0" width="26.539003446222303" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="410.1008123512621" y="0" width="16.69663040024878" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="426.7974427515109" y="0" width="13.911696269227615" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="440.7091390207385" y="0" width="8.61521755225593" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="449.3243565729945" y="0" width="5.814977368727556" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="455.13933394172204" y="0" width="4.860666058278021" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2460,7 +2460,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        669
+                                        670
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3112,7 +3112,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 233k out of 43.4m repositories</span>
+                                    <span class="gh">ranked 233k out of 45.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 156 stars</div>
                             </div>
@@ -3345,7 +3345,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Nov 2023, 05:03:00 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Nov 2023, 06:02:55 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
