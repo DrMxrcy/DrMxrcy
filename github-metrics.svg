@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="312.54400321173125" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="312.54400321173125" y="0" width="71.38989232001002" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="383.93389553174126" y="0" width="26.5647484709851" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="410.4986440027264" y="0" width="16.71282751043721" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="427.2114715131636" y="0" width="13.478953779509967" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="440.6904252926735" y="0" width="8.62357502467079" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="449.3140003173443" y="0" width="5.820618376938597" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="455.13461869428295" y="0" width="4.865381305717045" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="312.54513813149396" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="312.54513813149396" y="0" width="71.39015155326621" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.93528968476016" y="0" width="26.564844933747853" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="410.500134618508" y="0" width="16.71288819859004" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="427.213022817098" y="0" width="13.477332358031338" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="440.69035517512935" y="0" width="8.623606338871737" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="449.3139615140011" y="0" width="5.820639512953876" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="455.134601026955" y="0" width="4.865398973044974" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2383,7 +2383,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vipexv/vAdmin</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Advanced FiveM NUI based Admin Menu.</div>
@@ -2436,7 +2436,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Enz0Z/repository-manager</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easily manage Git repository updates with Repository Manager. This tool automates downloads, handles file replacements, and manages updates efficiently. Key features include AuthKey support for private repos, verbose file tracking, and customizable settings.</div>
@@ -3116,7 +3116,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 232k out of 49.4m repositories</span>
+                                    <span class="gh">ranked 232k out of 53.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 157 stars</div>
                             </div>
@@ -3349,7 +3349,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Nov 2023, 01:03:03 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Nov 2023, 02:02:47 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
