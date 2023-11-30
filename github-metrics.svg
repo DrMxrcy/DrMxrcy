@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            971 Commits
+                            1208 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="312.57152789507336" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="312.57152789507336" y="0" width="71.39617938410257" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="383.9677072791759" y="0" width="26.56708793769127" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="410.53479521686717" y="0" width="16.714299352098703" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="427.24909456896586" y="0" width="13.439630195385798" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="440.68872476435166" y="0" width="8.624334473482453" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="449.3130592378341" y="0" width="5.821130978927547" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="455.1341902167617" y="0" width="4.865809783238298" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="312.56923768851016" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="312.56923768851016" y="0" width="71.39565626544325" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="383.9648939539534" y="0" width="26.566893281064768" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="410.5317872350181" y="0" width="16.714176886695874" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="427.245964121714" y="0" width="13.442902136041099" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="440.6888662577551" y="0" width="8.62427128312232" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="449.3131375408774" y="0" width="5.821088327594384" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="455.1342258684718" y="0" width="4.8657741315281875" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2383,7 +2383,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Enz0Z/repository-manager</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easily manage Git repository updates with Repository Manager. This tool automates downloads, handles file replacements, and manages updates efficiently. Key features include AuthKey support for private repos, verbose file tracking, and customizable settings.</div>
@@ -2477,7 +2477,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jmorganca/ollama</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Get up and running with Llama 2 and other large language models locally</div>
@@ -2530,7 +2530,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>David-Kunz/gen.nvim</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Neovim plugin to generate text using LLMs with customizable prompts</div>
@@ -3116,7 +3116,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 232k out of 51.3m repositories</span>
+                                    <span class="gh">ranked 232k out of 45.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 157 stars</div>
                             </div>
@@ -3349,7 +3349,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Nov 2023, 21:13:05 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Nov 2023, 22:02:52 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
