@@ -2548,7 +2548,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Enz0Z/repository-manager</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easily manage Git repository updates with Repository Manager. This tool automates downloads, handles file replacements, and manages updates efficiently. Key features include AuthKey support for private repos, verbose file tracking, and customizable settings.</div>
@@ -3128,7 +3128,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 232k out of 46.3m repositories</span>
+                                    <span class="gh">ranked 232k out of 45.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 157 stars</div>
                             </div>
@@ -3361,7 +3361,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Dec 2023, 12:03:03 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Dec 2023, 13:02:55 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
