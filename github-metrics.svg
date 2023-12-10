@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="310.5627206994874" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="310.5627206994874" y="0" width="70.9394771883897" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="381.50219788787706" y="0" width="26.396348914292716" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="407.8985468021698" y="0" width="16.608638577964307" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="424.5071853801341" y="0" width="16.299924261699857" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="440.80710964183396" y="0" width="8.568908359453005" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="449.376018001287" y="0" width="5.789443373698049" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="455.165461374985" y="0" width="4.834538625014947" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="310.5627163136859" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="310.5627163136859" y="0" width="70.93947618657445" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="381.5021925002603" y="0" width="26.39634854152052" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="407.89854104178085" y="0" width="16.60863834341525" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="424.50717938519614" y="0" width="16.299930527682037" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="440.8071099128782" y="0" width="8.568908238441919" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="449.37601815132007" y="0" width="5.7894432919388805" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="455.16546144325895" y="0" width="4.834538556741051" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -3138,7 +3138,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 231k out of 61m repositories</span>
+                                    <span class="gh">ranked 231k out of 56.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 158 stars</div>
                             </div>
@@ -3371,7 +3371,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Dec 2023, 19:07:48 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Dec 2023, 20:28:50 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
