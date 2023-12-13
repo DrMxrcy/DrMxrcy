@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1290 Commits
+                            1303 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="311.8880224449167" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="311.8880224449167" y="0" width="69.38694745617862" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="381.27496990109535" y="0" width="26.50899323686395" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="407.7839631379593" y="0" width="17.316282513578454" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="425.1002456515377" y="0" width="15.589802592796678" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="440.6900482443344" y="0" width="8.60547549532697" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="449.29552373966135" y="0" width="5.849306625704558" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="455.1448303653659" y="0" width="4.855169634634023" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="311.8870050861101" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="311.8870050861101" y="0" width="69.38672112038826" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="381.27372620649834" y="0" width="26.508906766221337" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="407.7826329727196" y="0" width="17.317719995715233" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="425.1003529684349" y="0" width="15.589758263728699" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="440.69011123216353" y="0" width="8.605447424815598" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="449.29555865697915" y="0" width="5.8492875456399815" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="455.14484620261914" y="0" width="4.85515379738081" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2384,7 +2384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Twe3x/fivem-installer</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3125,7 +3125,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 226k out of 52.7m repositories</span>
+                                    <span class="gh">ranked 232k out of 50.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 158 stars</div>
                             </div>
@@ -3358,7 +3358,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Dec 2023, 13:02:49 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Dec 2023, 14:02:53 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
