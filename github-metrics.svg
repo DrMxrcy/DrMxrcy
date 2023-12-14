@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="311.86985031989923" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="311.86985031989923" y="0" width="69.38290463249507" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="381.25275495239435" y="0" width="26.507448692974734" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="407.7602036453691" y="0" width="17.33023852184447" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="425.09044216721355" y="0" width="15.58890077799208" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="440.67934294520563" y="0" width="8.60497409814182" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="449.2843170433474" y="0" width="5.860796208000778" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="455.1451132513482" y="0" width="4.854886748651772" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="311.86784901657677" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="311.86784901657677" y="0" width="69.38245939472225" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="381.250308411299" y="0" width="26.50727859174473" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="407.75758700304374" y="0" width="17.33307918266347" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="425.0906661857072" y="0" width="15.588800742291646" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="440.6794669279989" y="0" width="8.604918879071317" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="449.2843858070702" y="0" width="5.8607585986233035" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="455.1451444056935" y="0" width="4.854855594306552" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2389,7 +2389,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Twe3x/fivem-installer</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3130,7 +3130,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 232k out of 52.7m repositories</span>
+                                    <span class="gh">ranked 232k out of 53.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 158 stars</div>
                             </div>
@@ -3363,7 +3363,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Dec 2023, 22:02:45 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Dec 2023, 23:02:56 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
