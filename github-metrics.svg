@@ -2404,7 +2404,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RVC-Project/Retrieval-based-Voice-Conversion-WebUI</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Voice data &lt;= 10 mins can also be used to train a good VC model!</div>
@@ -2457,7 +2457,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>w-okada/voice-changer</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">リアルタイムボイスチェンジャー Realtime Voice Changer</div>
@@ -3144,7 +3144,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 206k out of 76.6m repositories</span>
+                                    <span class="gh">ranked 206k out of 73.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 189 stars</div>
                             </div>
@@ -3377,7 +3377,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Mar 2024, 10:02:26 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Mar 2024, 11:02:39 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
