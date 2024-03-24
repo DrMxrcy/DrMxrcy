@@ -2404,7 +2404,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ResetXPDR/MSFS2020_AutoFPS</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple utility for MSFS to automatically adjust key settings to improve performance and smoothness.</div>
@@ -2457,7 +2457,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Kirdock/recordy</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2511,7 +2511,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RVC-Project/Retrieval-based-Voice-Conversion-WebUI</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Voice data &lt;= 10 mins can also be used to train a good VC model!</div>
@@ -3150,7 +3150,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 204k out of 81.6m repositories</span>
+                                    <span class="gh">ranked 204k out of 80.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 193 stars</div>
                             </div>
@@ -3383,7 +3383,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Mar 2024, 01:03:22 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Mar 2024, 02:02:41 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
