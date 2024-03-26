@@ -2379,7 +2379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Sequal32/yourcontrols</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Shared cockpit for Microsoft Flight Simulator.</div>
@@ -3125,7 +3125,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 202k out of 83.4m repositories</span>
+                                    <span class="gh">ranked 202k out of 67.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 196 stars</div>
                             </div>
@@ -3358,7 +3358,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Mar 2024, 08:03:08 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Mar 2024, 09:02:35 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
