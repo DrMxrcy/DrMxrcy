@@ -344,7 +344,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        142
+                                        143
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2384,7 +2384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>maximmax42/Discord-CustomRP</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.</div>
@@ -2437,7 +2437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Peppermint-Lab/peppermint</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open source ticket management &amp; help desk solution. A zendesk/freshdesk alternative</div>
@@ -3124,7 +3124,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 202k out of 77m repositories</span>
+                                    <span class="gh">ranked 202k out of 72.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 197 stars</div>
                             </div>
@@ -3357,7 +3357,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Apr 2024, 14:02:40 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Apr 2024, 15:02:31 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
