@@ -2442,7 +2442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Peppermint-Lab/peppermint</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open source ticket management &amp; help desk solution. A zendesk/freshdesk alternative</div>
@@ -3129,7 +3129,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 200k out of 71.6m repositories</span>
+                                    <span class="gh">ranked 200k out of 70.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 199 stars</div>
                             </div>
@@ -3362,7 +3362,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Apr 2024, 14:02:43 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Apr 2024, 15:02:49 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
