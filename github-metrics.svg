@@ -2389,7 +2389,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>maximmax42/Discord-CustomRP</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.</div>
@@ -2949,7 +2949,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.44m out of 134m users</span>
+                                    <span class="gh">ranked 1.44m out of 132m users</span>
                                 </div>
                                 <div class="text">Published 32 public repositories</div>
                             </div>
@@ -3129,7 +3129,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 202k out of 52.9m repositories</span>
+                                    <span class="gh">ranked 202k out of 73.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 197 stars</div>
                             </div>
@@ -3280,7 +3280,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 939k out of 134m users</span>
+                                    <span class="gh">ranked 939k out of 132m users</span>
                                 </div>
                                 <div class="text">Followed by 15 users</div>
                             </div>
@@ -3362,7 +3362,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Apr 2024, 20:07:39 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Apr 2024, 21:24:18 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
