@@ -2394,7 +2394,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>maximmax42/Discord-CustomRP</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.</div>
@@ -3134,7 +3134,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 198k out of 77.9m repositories</span>
+                                    <span class="gh">ranked 198k out of 71.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 201 stars</div>
                             </div>
@@ -3367,7 +3367,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Apr 2024, 02:02:47 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Apr 2024, 03:02:46 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
