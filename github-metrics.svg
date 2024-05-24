@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4188 Commits
+                            4199 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="313.59273441807545" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="313.59273441807545" y="0" width="55.24894593173288" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="368.8416803498083" y="0" width="28.411989785323485" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="397.2536701351318" y="0" width="26.653885617831378" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="423.9075557529632" y="0" width="16.35196863233782" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="440.259524385301" y="0" width="8.65251114933064" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="448.9120355346317" y="0" width="6.206257531408114" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="455.11829306603977" y="0" width="4.881706933960223" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="313.57424014623973" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="313.57424014623973" y="0" width="55.24568760042429" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="368.819927746664" y="0" width="28.43744288134872" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="397.2573706280127" y="0" width="26.65231369300024" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="423.909684321013" y="0" width="16.351004267670707" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="440.2606885886837" y="0" width="8.652000863613868" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="448.91268945229757" y="0" width="6.205891514593083" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="455.11858096689065" y="0" width="4.881419033109374" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2447,7 +2447,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WebTheDev/TicketBot</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A custom ticket management system for discord!</div>
@@ -3088,7 +3088,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 176k out of 205m repositories</span>
+                                    <span class="gh">ranked 176k out of 197m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 238 stars</div>
                             </div>
@@ -3362,7 +3362,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 May 2024, 12:02:38 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 May 2024, 13:02:48 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
