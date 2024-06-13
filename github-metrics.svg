@@ -2389,7 +2389,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>g0ldyy/comet</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Stremio's fastest torrent/debrid search add-on.</div>
@@ -2985,7 +2985,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.36m out of 138m users</span>
+                                    <span class="gh">ranked 1.36m out of 132m users</span>
                                 </div>
                                 <div class="text">Published 34 public repositories</div>
                             </div>
@@ -3088,7 +3088,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 173k out of 199m repositories</span>
+                                    <span class="gh">ranked 173k out of 150m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 244 stars</div>
                             </div>
@@ -3280,7 +3280,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 910k out of 138m users</span>
+                                    <span class="gh">ranked 910k out of 132m users</span>
                                 </div>
                                 <div class="text">Followed by 16 users</div>
                             </div>
@@ -3363,7 +3363,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jun 2024, 16:02:42 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jun 2024, 17:02:40 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
