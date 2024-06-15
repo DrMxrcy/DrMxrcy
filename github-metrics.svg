@@ -2399,7 +2399,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ansonlichtfuss/spotify-desk-thing</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A rewrite of the Spotify Car Thing now playing interface for Raspberry Pi.</div>
@@ -2452,7 +2452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hcengineering/huly-selfhost</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Huly for Self Hosting</div>
@@ -3373,7 +3373,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jun 2024, 08:03:48 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jun 2024, 09:03:08 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
