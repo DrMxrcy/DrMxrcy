@@ -2379,7 +2379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TheChrisK/PMM</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Public Kometa configs (formerly Plex Meta Manager</div>
@@ -2426,7 +2426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hillnz/docker-openvpn-socks</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SOCKS proxy server which tunnels traffic over an OpenVPN connection</div>
@@ -2939,7 +2939,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.24m out of 127m users</span>
+                                    <span class="gh">ranked 1.24m out of 138m users</span>
                                 </div>
                                 <div class="text">Published 36 public repositories</div>
                             </div>
@@ -3078,7 +3078,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 172k out of 207m repositories</span>
+                                    <span class="gh">ranked 172k out of 203m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 247 stars</div>
                             </div>
@@ -3270,7 +3270,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 912k out of 127m users</span>
+                                    <span class="gh">ranked 912k out of 138m users</span>
                                 </div>
                                 <div class="text">Followed by 16 users</div>
                             </div>
@@ -3354,7 +3354,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jun 2024, 21:28:42 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jun 2024, 22:15:09 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
