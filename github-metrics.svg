@@ -2379,7 +2379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TechSquidTV/UltimateHomeServer</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Configure the ultimate home server with k3s and helm</div>
@@ -2532,7 +2532,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>petersem/posterr</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A digital poster app for Plex, Sonarr, Radarr, and Readarr</div>
@@ -3354,7 +3354,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jun 2024, 02:02:58 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jun 2024, 03:02:44 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
