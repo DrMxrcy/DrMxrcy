@@ -2537,7 +2537,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>petersem/posterr</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A digital poster app for Plex, Sonarr, Radarr, and Readarr</div>
@@ -3083,7 +3083,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 171k out of 201m repositories</span>
+                                    <span class="gh">ranked 171k out of 194m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 250 stars</div>
                             </div>
@@ -3359,7 +3359,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jun 2024, 02:03:17 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jun 2024, 03:02:33 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
