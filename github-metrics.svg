@@ -2448,7 +2448,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Yoruio/Membarr</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Discord Bot to invite a user to a Plex or Jellyfin server</div>
@@ -3096,7 +3096,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 167k out of 210m repositories</span>
+                                    <span class="gh">ranked 167k out of 195m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 258 stars</div>
                             </div>
@@ -3372,7 +3372,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jul 2024, 10:09:32 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jul 2024, 11:10:08 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
