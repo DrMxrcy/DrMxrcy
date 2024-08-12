@@ -2553,7 +2553,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>reid41/QA-Pilot</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub code repository.</div>
@@ -3102,7 +3102,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 164k out of 213m repositories</span>
+                                    <span class="gh">ranked 164k out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 266 stars</div>
                             </div>
@@ -3379,7 +3379,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Aug 2024, 01:11:23 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Aug 2024, 02:15:09 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
