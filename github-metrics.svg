@@ -2490,7 +2490,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>glomatico/spotify-web-downloader</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python CLI app for downloading songs and music videos directly from Spotify.</div>
@@ -3050,7 +3050,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 158k out of 216m repositories</span>
+                                    <span class="gh">ranked 158k out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 280 stars</div>
                             </div>
@@ -3363,7 +3363,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Sept 2024, 13:09:52 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Sept 2024, 14:13:20 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
