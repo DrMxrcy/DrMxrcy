@@ -2389,7 +2389,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HostLift/HostBase</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The only Knowledge Base your hosting company needs!</div>
@@ -3055,7 +3055,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 157k out of 196m repositories</span>
+                                    <span class="gh">ranked 157k out of 207m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 284 stars</div>
                             </div>
@@ -3368,7 +3368,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Sept 2024, 07:02:45 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Sept 2024, 08:03:28 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
