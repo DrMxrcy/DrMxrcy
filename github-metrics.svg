@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.12879789808886" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="304.12879789808886" y="0" width="44.115704610439956" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="348.2445025085288" y="0" width="41.51438312793657" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="389.7588856364654" y="0" width="25.73143212600248" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="415.49031776246784" y="0" width="20.413192885977733" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="435.90351064844555" y="0" width="13.41266307930235" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="449.3161737277479" y="0" width="6.198771078555901" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="455.51494480630384" y="0" width="4.48505519369617" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.1279707558616" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="304.1279707558616" y="0" width="44.11558462850329" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="348.2435553843649" y="0" width="41.52099991736047" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="389.76455530172535" y="0" width="25.73136214396124" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="415.4959174456866" y="0" width="20.41313736800658" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="435.90905481369316" y="0" width="13.412626600744288" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="449.3216814144375" y="0" width="6.1932755899172065" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="455.5149570043547" y="0" width="4.485042995645319" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2532,7 +2532,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>psnwd/fivemanager</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Web-Based Whitelist Management for FiveM RP Servers | Next 14</div>
@@ -2907,7 +2907,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.19m out of 144m users</span>
+                                    <span class="gh">ranked 1.19m out of 145m users</span>
                                 </div>
                                 <div class="text">Published 38 public repositories</div>
                             </div>
@@ -3082,7 +3082,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 153k out of 190m repositories</span>
+                                    <span class="gh">ranked 153k out of 216m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 297 stars</div>
                             </div>
@@ -3274,7 +3274,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 773k out of 144m users</span>
+                                    <span class="gh">ranked 773k out of 145m users</span>
                                 </div>
                                 <div class="text">Followed by 20 users</div>
                             </div>
@@ -3361,7 +3361,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Oct 2024, 16:02:47 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Oct 2024, 17:02:48 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
