@@ -2411,7 +2411,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>directus-labs/agency-os</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open source operating system for digital agencies. Built with Directus and Nuxt.</div>
@@ -3115,7 +3115,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 152k out of 187m repositories</span>
+                                    <span class="gh">ranked 152k out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 299 stars</div>
                             </div>
@@ -3394,7 +3394,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Oct 2024, 21:29:51 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Oct 2024, 22:28:06 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
