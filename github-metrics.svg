@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            8499 Commits
+                            8510 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="302.59878114081465" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="302.59878114081465" y="0" width="44.374504281111335" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="346.97328542192605" y="0" width="41.616819222601386" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="388.5901046445274" y="0" width="25.88062512437192" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="414.47072976889933" y="0" width="20.31049781927944" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="434.78122758817875" y="0" width="13.393916803328025" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="448.17514439150676" y="0" width="7.3623639130618965" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="455.5375083045687" y="0" width="4.462491695431352" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="302.59557062801224" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="302.59557062801224" y="0" width="44.374033476458536" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="346.96960410447076" y="0" width="41.61637767643783" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="388.58598178090864" y="0" width="25.88035053609373" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="414.4663323170024" y="0" width="20.310282328942613" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="434.77661464594496" y="0" width="13.39865520492475" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="448.1752698508697" y="0" width="7.362285799847065" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="455.5375556507168" y="0" width="4.462444349283213" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2389,7 +2389,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huh-sters/pydreamtv</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Stream IPTV to Discord</div>
@@ -3094,7 +3094,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 149k out of 203m repositories</span>
+                                    <span class="gh">ranked 149k out of 160m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 310 stars</div>
                             </div>
@@ -3333,7 +3333,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Nov 2024, 03:03:38 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Nov 2024, 04:03:10 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
