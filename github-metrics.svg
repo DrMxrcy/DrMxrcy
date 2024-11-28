@@ -2436,7 +2436,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>limmer55/streamdock</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📺 A Web-IPTV Player docker image.</div>
@@ -2489,7 +2489,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bknd-io/bknd</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Supabase/Firebase alternative that runs standalone or natively in Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda &amp; more.</div>
@@ -3094,7 +3094,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 149k out of 187m repositories</span>
+                                    <span class="gh">ranked 149k out of 218m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 310 stars</div>
                             </div>
@@ -3333,7 +3333,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Nov 2024, 16:02:46 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Nov 2024, 17:02:50 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
