@@ -2511,7 +2511,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nberlee/talos</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Friendly fork for Turing RK1 on Talos</div>
@@ -2963,7 +2963,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 989k out of 150m users</span>
+                                    <span class="gh">ranked 989k out of 144m users</span>
                                 </div>
                                 <div class="text">Published 43 public repositories</div>
                             </div>
@@ -3102,7 +3102,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 149k out of 218m repositories</span>
+                                    <span class="gh">ranked 149k out of 228m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 310 stars</div>
                             </div>
@@ -3253,7 +3253,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 797k out of 150m users</span>
+                                    <span class="gh">ranked 797k out of 144m users</span>
                                 </div>
                                 <div class="text">Followed by 20 users</div>
                             </div>
@@ -3341,7 +3341,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Dec 2024, 22:17:31 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Dec 2024, 23:03:10 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
