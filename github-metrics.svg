@@ -2384,7 +2384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TheImaginear/dynamiX</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">**DynamiX** is an automation tool for dynamically managing Plex collections. It pins and unpins library collections based on configurable time blocks, ensuring fresh and relevant content is featured. This repository includes the Python script and is packaged `.exe` version for easier execution.</div>
@@ -3096,7 +3096,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 149k out of 220m repositories</span>
+                                    <span class="gh">ranked 149k out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 312 stars</div>
                             </div>
@@ -3336,7 +3336,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Dec 2024, 22:11:42 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Dec 2024, 23:03:05 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
